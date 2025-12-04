@@ -40,3 +40,12 @@
 ```cmd
 g++ -std=c++17 -Wall -Wextra -O2 -o library library.cpp
 library
+
+## Примерен изход
+Library: 2 books, 1 members, 0 active loans
+Loan created.
+Available ISBN-001? false
+Available ISBN-001? true
+Pod igoto by Ivan Vazov (1894) - 25.500000 lv. ISBN: ISBN-001
+Nema zemya by Ivan Vazov (1900) - 18.900000 lv. ISBN: ISBN-002
+Total books created: 2

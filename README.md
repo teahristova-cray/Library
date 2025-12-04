@@ -37,8 +37,6 @@
 
 ## Компилация
 
-На Windows с g++:
-
 ```cmd
 g++ -std=c++17 -Wall -Wextra -O2 -o library library.cpp
 library
